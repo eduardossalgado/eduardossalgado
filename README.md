@@ -172,7 +172,7 @@ eduardo@workspace:~$ _
 <img src="https://img.shields.io/badge/GitHub-080D18?style=for-the-badge&logo=github&logoColor=63D9D0"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/eduardo-salgado-131617434/">
 <img src="https://img.shields.io/badge/LinkedIn-080D18?style=for-the-badge&logo=linkedin&logoColor=63D9D0"/>
 </a>
 
