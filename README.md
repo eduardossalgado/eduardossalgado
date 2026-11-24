@@ -123,7 +123,7 @@ Future projects involving data processing, analysis and visualization.
 ```bash
 eduardo@workspace:~$ cat missions.txt
 
-[IN PROGRESS] Python fundamentals
+[IN PROGRESS] Python
 [IN PROGRESS] Git and GitHub
 [IN PROGRESS] SQL and databases
 
